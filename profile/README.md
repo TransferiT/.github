@@ -1,4 +1,4 @@
-# [TransferiT]
+# TransferiT
 
 > Secure data solutions designed for everyone
 
